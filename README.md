@@ -469,7 +469,9 @@ missile + guidance law    ← physics running in world space
       ↓
 HUD + annotations         ← the numbers that explain the picture
 ```
+In the future, planned to add also:
 
+<img src="oytan_simulation_landscape.svg">
 ---
 
 *Built from scratch. No magic. Just pixels — and the mathematics that place them.*
